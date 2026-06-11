@@ -356,3 +356,38 @@ width:180px;
     margin-top: 25px;
     width: 400px;
 }
+.section8{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.section8 img{
+    width: 500px;
+}
+.section8 p{
+    color: gray;
+    font-size: 14px;
+    margin-top: 20px;
+}
+.section_8_text_center{
+    text-align: center;
+    font-size: 45px;
+    margin-top: 100px;
+}
+.btnsec8{
+    background-color: #843546;
+    color: white;
+    padding: 11px;
+    border: none;
+    width: 250px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+.btnsec8:hover{
+    background-color: white;
+    color: #843546;
+    transition: 0,3s;
+}
