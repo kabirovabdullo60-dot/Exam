@@ -335,3 +335,24 @@ width:180px;
   justify-content: space-between;
   margin-top: 50px;
 }
+.section7{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 80px;
+}
+.section7 img{
+  width: 500px;
+}
+.section7 h1{
+    width: 600px;
+}
+.section7 p{
+    color: gray;
+    line-height: 18px;
+    font-size: 14px;
+    margin-top: 25px;
+    width: 400px;
+}
